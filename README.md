@@ -1,5 +1,5 @@
 ## Hello World!, I'm Aditya Saputra  👋
-![spiderman](gif/this%20looks%20so%20nice.jpeg)
+
 <!--
 **Adityaaaxz/Adityaaaxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working Project **Apps Mobile and Website E - Commerce**
 - 🌱 I’m currently learning **Ui/Ux Laravel and flutter**
-- ⚡ **Nothing is impossible if we try.** 
+- ⚡ **Nothing is impossible if we try.**
 
 ![spiderman](gif/spiderman.gif)
 > You can contact me through the social media that I have listed in my profile.

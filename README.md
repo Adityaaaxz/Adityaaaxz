@@ -35,3 +35,19 @@ Here are some ideas to get you started:
 
 ![spiderman](gif/spiderman.gif)
 > You can contact me through the social media that I have listed in my profile.
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityaaaxz/adityaaaxz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityaaaxz/adityaaaxz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adityaaaxz/adityaaaxz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adityaaaxz.adityaaaxz&"  />
+</div>
+
+###

@@ -1,125 +1,84 @@
-<h1 align="center">Hi there, I'm Aditya! 👋</h1>
+<div align="center">
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/Adityaaaxz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Designer;Creative+Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
-</p>
+  <h1>👋 Hi, I'm <a href="https://github.com/Adityaaaxz">Aditya Saputra</a></h1>
+  <p><strong>Full Stack Web Developer & UI/UX Designer</strong></p>
 
-<p align="center">
-  <i>Saya senang merancang antarmuka yang indah dan mewujudkannya menjadi aplikasi fungsional melalui baris kode.</i>
-</p>
+  <p>
+    <a href="https://github.com/Adityaaaxz">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Crafting+Seamless+Digital+Experiences;Frontend+%26+Backend+Development;UI%2FUX+Design+%26+Clean+Code" alt="Typing SVG" />
+    </a>
+  </p>
 
-<!-- Social Links / Badges -->
-<p align="center">
-  <a href="https://github.com/Adityaaaxz">
-    <img src="https://komarev.com/ghpvc/?username=Adityaaaxz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="[Masukkan Link LinkedIn]">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />
-  </a>
-  <a href="[Masukkan Link Portfolio]">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white&style=flat" alt="Portfolio" />
-  </a>
-  <a href="mailto:[Masukkan Email Anda]">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" alt="Email" />
-  </a>
-</p>
+  <p>
+    <a href="https://github.com/Adityaaaxz"><img src="https://img.shields.io/github/followers/Adityaaaxz?style=flat-square&color=38BDF8&label=Followers" alt="Followers"></a>
+    <a href="https://github.com/Adityaaaxz"><img src="https://komarev.com/ghpvc/?username=Adityaaaxz&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /></a>
+    <img src="https://img.shields.io/badge/Location-Indonesia-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+  </p>
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 👨‍💻 About Me
+
+```
+💻 Passionate about building modern, responsive, and scalable web applications.
+🎨 Bridging the gap between UI/UX design (Figma) and high-performance code.
+🌱 Continuously exploring new technologies in Frontend, Backend, & Web Performance.
+```
+
+- 🔭 **Current Focus:** Developing modern web apps with React, TypeScript & Node.js
+- 💼 **Open to:** Collaborative projects, open-source contributions, & freelance opportunities
+- 💬 **Ask me about:** Frontend development, UI Design, React, Node.js & JavaScript ecosystem
+- ⚡ **Fun fact:** I love transforming complex ideas into clean, intuitive UI design
+
+---
+
+### 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Adityaaaxz&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-- 🔭 Saat ini sedang fokus membangun aplikasi web yang modern, interaktif, dan responsif.
-- 🌱 Terus mengeksplorasi teknologi baru di bidang **Frontend**, **Backend**, dan **UI/UX Research**.
-- 🎨 Bersemangat dalam menjembatani jarak antara estetika desain (Figma) dan eksekusi teknis yang mulus.
-- 💬 Tanya saya tentang: **React, UI Design, Node.js, atau ekosistem JavaScript.**
-
----
-
-## 🚀 Featured Projects
-
-| Project Name | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **[Nama Project 1]** | Aplikasi manajemen terintegrasi dengan fitur dashboard analitik interaktif. | React, Node.js, Tailwind | [Demo](#) / [Repo](#) |
-| **[Nama Project 2]** | Desain sistem dan prototipe UI/UX untuk platform e-learning modern. | Figma, UI/UX Research | [Behance](#) / [Dribbble](#) |
-| **[Nama Project 3]** | API RESTful dengan autentikasi keamanan tinggi untuk layanan E-commerce. | Express, MongoDB, JWT | [Repo](#) |
-
-*(Catatan: Jangan lupa ganti teks di dalam kurung siku `[...]` dan tanda `#` dengan link asli project Anda)*
-
----
-
-## 🛠️ Tech Stack & Tools
-
-Berikut adalah teknologi dan alat yang sering saya gunakan dalam keseharian:
-
-### Frontend & Design
-<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,js,ts,react,tailwind,bootstrap" alt="Frontend & Design Tools" />
-  </a>
-</p>
-
-### Backend & Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,postman" alt="Backend & Database" />
-  </a>
-</p>
-
-### Environment & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,vite" alt="Environment Tools" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,express,php,mysql,mongodb,figma,git,github,docker,vscode,vite&perline=9&theme=dark" alt="Tech Stack Icons" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+### 🚀 Featured Projects
 
-<p align="center">
-  <!-- Overall Stats & Top Languages Side by Side -->
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| ⚡ **Portfolio Website** | Personal portfolio showcasing projects, skills, and experience with responsive design. | React, Tailwind CSS, Vite |
+| 🛍️ **E-Commerce Web Platform** | Modern online shopping platform with product catalog, cart management, and seamless UI. | React, Node.js, MongoDB |
+| 🎨 **UI/UX Design Systems** | Interactive design system and components prototype created for modern digital products. | Figma, UI/UX Research |
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Adityaaaxz&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Adityaaaxz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaaaxz&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaaaxz&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
   </a>
-</p>
-
-<p align="center">
-  <!-- Activity Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaaaxz&theme=react-dark&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityaaaxz&theme=dark&background=0D1117&hide_border=true" alt="GitHub Streak" width="100%" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+### 🐍 Contribution Activity
 
-<p align="center">
-  <!-- Animasi Ular -->
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityaaaxz/Adityaaaxz/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityaaaxz/Adityaaaxz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Adityaaaxz/Adityaaaxz/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Adityaaaxz/Adityaaaxz/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
-</p>
+</div>
+
+---
+
+<div align="center">
+  <sub>Designed with ❤️ by <a href="https://github.com/Adityaaaxz">Aditya Saputra</a></sub>
+</div>

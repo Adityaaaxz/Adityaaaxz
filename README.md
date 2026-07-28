@@ -22,16 +22,15 @@
 
 ---
 
-<h3 align="center">📊 GitHub Statistics</h3>
+<h3 align="center">📊 GitHub Summary & Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityaaaxz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaaaxz&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityaaaxz&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Adityaaaxz&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adityaaaxz&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adityaaaxz&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 <p align="center">

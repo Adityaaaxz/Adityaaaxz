@@ -1,17 +1,24 @@
-name: Generate Snake
+name: Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Otomatis berjalan setiap tengah malam
-  workflow_dispatch: # Memungkinkan Anda menjalankannya secara manual di website GitHub
+    - cron: "0 0 * * *" # Runs midnight every day
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
+
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |

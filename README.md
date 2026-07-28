@@ -5,7 +5,7 @@
 
   <p>
     <a href="https://github.com/Adityaaaxz"><img src="https://img.shields.io/github/followers/Adityaaaxz?style=flat-square&logo=github&color=24292e&label=Followers" alt="Followers" /></a>
-    <a href="https://github.com/Adityaaaxz"><img src="https://komarev.com/ghpvc/?username=Adityaaaxz&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" /></a>
+    <a href="https://komarev.com/ghpvc/?username=Adityaaaxz&label=Profile%20Views&color=0e75b6&style=flat-square"><img src="https://komarev.com/ghpvc/?username=Adityaaaxz&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" /></a>
     <img src="https://img.shields.io/badge/Location-Indonesia-0969da?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
 
@@ -30,7 +30,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityaaaxz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Adityaaaxz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaaaxz&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
